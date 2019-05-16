@@ -1,1 +1,1 @@
-# Double-Submit-Cookies-Pattern
+# Double_Submit_Cookies_Pattern_PHP_Example
